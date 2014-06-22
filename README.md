@@ -1,6 +1,7 @@
-Course Project [Getting and Cleaning Data](https://class.coursera.org/getdata-004)
+Course Project 
 =========
 
+Course: [Getting and Cleaning Data](https://class.coursera.org/getdata-004)
 Author: McReyar  
 Creation Date: 06/22/2014
 
@@ -8,10 +9,10 @@ Documentation:
 ---------
 * README.md (this document)
 * [Codebook.md](https://github.com/McReyar/GetData_CourseProject/blob/master/Codebook.md)
-* [run_analyis.R](https://github.com/McReyar/GetData_CourseProject/blob/master/run_analysis.md): Program Code
+* [run_analyis.R](https://github.com/McReyar/GetData_CourseProject/blob/master/run_analysis.R): Program Code
 
 
-Description [run_analyis.R](https://github.com/McReyar/GetData_CourseProject/blob/master/run_analysis.md)
+Description [run_analyis.R](https://github.com/McReyar/GetData_CourseProject/blob/master/run_analysis.R)
 ---------
 **Requirements**  
 following packages have to be installed:
@@ -22,7 +23,7 @@ following packages have to be installed:
 install.packages("reshap2")
 install.packages("stringr")
 ```
-To clean the data, following steps are executed in [run_analyis.R](https://github.com/McReyar/GetData_CourseProject/blob/master/run_analysis.md)
+To clean the data, following steps are executed in [run_analyis.R](https://github.com/McReyar/GetData_CourseProject/blob/master/run_analysis.R)
 
 
 1. Download and unzip the data, if they are not in the current folder
