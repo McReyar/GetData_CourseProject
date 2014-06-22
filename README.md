@@ -1,7 +1,7 @@
 Course Project 
 =========
 
-Course: [Getting and Cleaning Data](https://class.coursera.org/getdata-004)
+Course: [Getting and Cleaning Data](https://class.coursera.org/getdata-004)  
 Author: McReyar  
 Creation Date: 06/22/2014
 
